@@ -5,7 +5,10 @@
 - Built an interactive dashboard showing trends between stock performance and revenue history using Plotly
 
 # Code and Resources used 
+
 **Python Version:** 3.8 
+
 **Packages:** numpy, pandas, matplotlib, seaborn, plotly, requests, bs4, lxml
+
 **Data:** Yahoo Finance 
 
